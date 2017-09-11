@@ -2,3 +2,4 @@
 *.retry
 *.swp
 .DS_Store
+main-org.yml
